@@ -1,0 +1,11 @@
+[33mcommit e73f93cffd0eb0b49e0d35ab55c3e465d8d6f7fa[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Tessa Connon <165363098+Mccutie323@users.noreply.github.com>
+Date:   Tue Jan 28 06:57:41 2025 +0000
+
+    Add initial README.md and main.py with project details
+
+[33mcommit 32acf8d55a50940720e23707b6fc7f7e512f4db1[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Tessa Connon <165363098+Mccutie323@users.noreply.github.com>
+Date:   Tue Jan 28 19:21:47 2025 +1300
+
+    Initial commit
